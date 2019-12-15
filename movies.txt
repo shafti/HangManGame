@@ -1,0 +1,783 @@
+THE SHAWSHANK REDEMPTION,Prison Drama - 1994
+AMERICAN BEAUTY,Drama - 1999
+SCHINDLERS LIST,War Drama - 1993
+THE USUAL SUSPECTS,Crime Thriller - 1995
+THE MATRIX,Sci-Fi Action - 1999
+FIGHT CLUB,Drama Thriller - 1999
+PULP FICTION,Crime Thriller - 1994
+THE SIXTH SENSE,Thriller Drama - 1999
+GOODFELLAS,Crime Drama - 1990
+BEING JOHN MALKOVICH,Comedy Fantasy - 1999
+AMERICAN HISTORY X,Drama - 1998
+LA CONFIDENTIAL,Crime Drama - 1997
+BRAVEHEART,War Drama - 1995
+RESERVOIR DOGS,Crime Thriller - 1992
+FARGO,Crime Thriller - 1996
+RAIDERS OF THE LOST ARK,Action Adventure - 1981
+BLADE RUNNER,Sci-Fi Action - 1982
+AMADEUS,Drama - 1984
+FULL METAL JACKET,War Drama - 1987
+THE SHINING,Horror - 1980
+PLATOON,Action War Drama - 1986
+THIS IS SPINAL TAP,Comedy - 1984
+STAND BY ME,Drama Adventure - 1986
+DIE HARD,Action Thriller - 1988
+RAIN MAN,Drama - 1988
+THE TERMINATOR,Sci-Fi Action - 1984
+BACK TO THE FUTURE,Sci-Fi Adventure - 1985
+DEAD POETS SOCIETY,Drama - 1989
+THE GODFATHER,Crime Drama - 1972
+TAXI DRIVER,Crime Drama - 1976
+CHINATOWN,Crime Mystery - 1974
+APOCALYPSE NOW,Action Drama - 1979
+ANNIE HALL,Romantic Comedy - 1977
+A CLOCKWORK ORANGE,Crime Drama - 1971
+JAWS,Horror Thriller - 1975
+THE EXORCIST,Horror Drama - 1973
+SCREAM,Horror Comedy - 1996
+SAVING PRIVATE RYAN,War Drama - 1998
+THE GREAT ESCAPE,Prison Drama - 1963
+GOOD WILL HUNTING,Drama - 1997
+FROM DUSK TILL DAWN,Comedy Horror - 1996
+CHICKEN RUN,Animation Comedy - 2000
+TWELVE MONKEYS,Sci-Fi Drama - 1995
+HIGH FIDELITY,Romantic Comedy - 2000
+THE SILENCE OF THE LAMBS,Crime Thriller - 1991
+THE WIZARD OF OZ,Fantasy Adventure - 1939
+SOME LIKE IT HOT,Romantic Comedy - 1959
+ALMOST FAMOUS,Comedy Drama - 2000
+THE GREEN MILE,Prison Drama - 1999
+GLADIATOR,Action Drama - 2000
+THE IRON GIANT,Animation Sci-Fi - 1999
+TOY STORY,Animation Comedy - 1995
+FORREST GUMP,Drama Adventure - 1994
+THE TRUMAN SHOW,Fantasy Drama - 1998
+TRAINSPOTTING,Drama Comedy - 1996
+THE FUGITIVE,Action Thriller - 1993
+BEAUTY AND THE BEAST,Animation Musical - 1991
+GROUNDHOG DAY,Fantasy Comedy - 1993
+HOME ALONE,Family Comedy - 1990
+CAST AWAY,Adventure Drama - 2000
+MARY POPPINS,Musical Fantasy - 1964
+JURASSIC PARK,Sci-Fi Horror - 1993
+THE LION KING,Animation Adventure - 1994
+STUART LITTLE,Fantasy Comedy - 1999
+WAYNES WORLD,Comedy - 1992
+THE ADDAMS FAMILY,Comedy - 1991
+MANHATTAN,Comedy Drama - 1979
+ALIEN,Horror Sci-Fi - 1979
+YOUNG FRANKENSTEIN,Comedy - 1974
+LIFE OF BRIAN,Comedy - 1979
+LAWRENCE OF ARABIA,War Adventure - 1962
+PSYCHO,Horror Thriller - 1960
+TO KILL A MOCKING BIRD,Drama - 1962
+THE GRADUATE,Romantic Drama - 1967
+LOST IN SPACE,Sci-Fi Adventure - 1998
+THE APARTMENT,Romantic Comedy - 1960
+ANTZ,Animation Comedy - 1998
+EXCALIBUR,Action Drama - 1981
+HAPPY GILMORE,Comedy - 1996
+CONTACT,Sci-Fi Drama - 1997
+THE EMPERORS NEW GROOVE,Animation Comedy - 2000
+TITANIC,Romantic Drama - 1997
+ERIN BROCKOVICH,Drama - 2000
+SNATCH,Crime Comedy - 2000
+UNBREAKABLE,Drama Thriller - 2000
+AMERICAN PIE,Comedy - 1999
+THE BLAIR WITCH PROJECT,Horror Thriller - 1999
+DEATH BECOMES HER,Comedy Fantasy - 1992
+ENTRAPMENT,Action Thriller - 1999
+FINAL DESTINATION,Horror Thriller - 2000
+FREQUENCY,Sci-Fi Thriller - 2000
+GONE IN SIXTY SECONDS,Crime Action - 2000
+HOLLOW MAN,Sci-Fi Thriller - 2000
+LABYRINTH,Fantasy Adventure - 1986
+MEET THE PARENTS,Comedy - 2000
+BILLY ELLIOT,Drama - 2000
+CHARLIES ANGELS,Action - 2000
+THE FULL MONTY,Comedy - 1997
+HANNIBAL,Horror Thriller - 2001
+MAN ON THE MOON,Comedy Drama - 1999
+PITCH BLACK,Sci-Fi Thriller - 2000
+ROAD TRIP,Comedy - 2000
+SCARY MOVIE,Comedy Spoof - 2000
+WHAT WOMEN WANT,Romantic Comedy - 2000
+WONDER BOYS,Drama Comedy - 2000
+BRING IT ON,Comedy - 2000
+GALAXY QUEST,Sci-Fi Comedy - 1999
+KEEPING THE FAITH,Romantic Comedy - 2000
+THE PERFECT STORM,Drama Adventure - 2000
+BATTLEFIELD EARTH,Action Sci-Fi - 2000
+CASABLANCA,Romantic Drama - 1942
+GONE WITH THE WIND,Romantic Drama - 1939
+PLANET OF THE APES,Sci-Fi Action - 1968/2001
+FROZEN,Musical Animation - 2013
+ITS A WONDERFUL LIFE,Christmas Drama - 1946
+BEETLEJUICE,Horror Comedy - 1988
+BRIDGET JONESS DIARY,Romantic Comedy - 2001
+MAJOR PAYNE,Military Comedy - 1995
+FINAL FANTASY,Sci-Fi Animation - 2001
+JEEPERS CREEPERS,Horror - 2001
+MOULIN ROUGE,Musical Romance - 2001
+OCEANS ELEVEN,Crime Comedy - 1960/2001
+PEARL HARBOR,War Drama - 2001
+SHREK,Animation Fantasy - 2001
+TOMB RAIDER,Video Game Action - 2001
+MONSTERS INC,Animation Fantasy - 2001
+IT HAPPENED ONE NIGHT,Romantic Comedy - 1934
+DUST DEVIL,Mystery Horror - 1992
+OF MICE AND MEN,Drama - 1939
+THE THIRD MAN,Mystery Thriller - 1949
+THE BIG SLEEP,Film-Noir Mystery - 1946
+THE MALTESE FALCON,Film-Noir Mystery - 1941
+REAR WINDOW,Mystery Thriller - 1954
+ALL ABOUT EVE,Drama - 1950
+SINGING IN THE RAIN,Musical Romance - 1952
+PRISONERS,Crime Thriller - 2013
+VERTIGO,Drama Thriller - 1958
+EVENT HORIZON,Sci-Fi Horror - 1997
+THE AFRICAN QUEEN,Romantic Adventure - 1951
+A STREETCAR NAMED DESIRE,Drama - 1951
+BEN HUR,Epic Drama - 1959
+RAGING BULL,Boxing Drama - 1980
+WHOS HARRY CRUMB,Crime Comedy - 1989
+DAS BOOT,War Drama - 1981
+X MEN,Sci-Fi Action - 2000
+THE ABYSS,Sci-Fi Adventure - 1989
+REQUIEM FOR A DREAM,Drama - 2000
+ARMAGEDDON,Sci-Fi Action - 1998
+MEN IN BLACK,Sci-Fi Action - 1997
+WHAT LIES BENEATH,Mystery Thriller - 2000
+THE INSIDER,Drama - 1999
+DARK CITY,Sci-Fi Thriller - 1998
+O BROTHER WHERE ART THOU,Comedy Adventure - 2000
+CHILDS PLAY,Horror - 1988
+HALLOWEEN,Horror - 1978
+VANILLA SKY,Romantic Drama - 2001
+CARRIE,Horror Drama - 1976
+ROMANCING THE STONE,Action Adventure - 1984
+THE JEWEL OF THE NILE,Action Adventure - 1985
+BIG MOMMAS HOUSE,Comedy - 2000
+BIG,Comedy Fantasy - 1988
+SEVEN YEARS IN TIBET,Drama Adventure - 1997
+ONCE BITTEN,Comedy Horror - 1985
+BATTERIES NOT INCLUDED,Sci-Fi Fantasy - 1987
+COCOON,Sci-Fi Drama - 1985
+THE CROW,Action Thriller - 1994
+THE MUMMY,Action Adventure - 1999
+DROP DEAD FRED,Comedy - 1991
+DROP DEAD GORGEOUS,Comedy - 1999
+THE THOMAS CROWN AFFAIR,Romantic Thriller - 1968/1999
+GO,Crime Comedy - 1999
+CHITTY CHITTY BANG BANG,Musical Fantasy - 1968
+NORTH BY NORTHWEST,Thriller - 1959
+DIAL M FOR MURDER,Thriller - 1954
+EYES WIDE SHUT,Drama Thriller - 1999
+LOLITA,Romantic Drama - 1962
+SPARTACUS,Action Drama - 1960
+ARTIFICIAL INTELLIGENCE,Sci-Fi Drama - 2001
+EVOLUTION,Sci-Fi Comedy - 2001
+THE MASK OF ZORRO,Action Romance - 1998
+DEEP IMPACT,Sci-Fi Action - 1998
+AMISTAD,Drama - 1998
+GREMLINS,Comedy Horror - 1984
+ARACHNOPHOBIA,Sci-Fi Thriller - 1990
+WHO FRAMED ROGER RABBIT,Cross-animation Fantasy - 1988
+THE LAND BEFORE TIME,Animation Adventure - 1988
+THE GOONIES,Family Adventure - 1985
+POLTERGEIST,Horror Thriller - 1982
+HOOK,Fantasy Adventure - 1991
+THE SUGARLAND EXPRESS,Crime Drama - 1974
+YOUVE GOT MAIL,Romantic Comedy - 1998
+A LEAGUE OF THEIR OWN,Comedy Drama - 1992
+BIG,Fantasy Comedy - 1988
+SPLASH,Romantic Comedy - 1984
+DANGEROUS MINDS,Drama - 1995
+ANNA AND THE KING,Romantic Drama - 1999
+MAVERICK,Western Comedy - 1994
+BUGSY MALONE,Musical - 1976
+RUN LOLA RUN,War Drama - 1981
+SPY GAME,Action Thriller - 2001
+THE MEXICAN,Action Comedy - 2001
+MEET JOE BLACK,Romantic Drama - 1998
+KALIFORNIA,Crime Thriller - 1993
+SERENDIPITY,Romantic Comedy - 2001
+PUSHING TIN,Comedy - 1999
+GREASE,Romantic Musical - 1978
+THE THIN RED LINE,War Drama - 1998
+CON AIR,Action Thriller - 1997
+GROSSE POINTE BLANK,Romantic Comedy - 1997
+SUPERMAN,Fantasy Adventure - 1978
+ANALYZE THIS,Crime Comedy - 1999
+RONIN,Crime Thriller - 1998
+JACKIE BROWN,Crime Drama - 1997
+WAG THE DOG,Comedy - 1997
+COP LAND,Crime Thriller - 1997
+HEAT,Crime Thriller - 1995
+TOP GUN,Action Drama - 1986
+THE BEACH,Adventure Drama - 2000
+SNAKE EYES,Mystery Thriller - 1998
+BIG DADDY,Comedy - 1999
+BLACK RAIN,Action Drama - 1989
+COYOTE UGLY,Romantic Comedy - 2000
+SATURDAY NIGHT FEVER,Romantic Comedy - 1977
+BOOGIE NIGHTS,Drama - 1997
+THE KARATE KID,Drama - 1984
+HOME ALONE,Family Comedy - 1990
+THREE KINGS,War Comedy - 1999
+BASIC INSTINCT,Mystery Thriller - 1992
+SHOWGIRLS,Drama - 1995
+JUDGE DREDD,Sci-Fi Action - 1995
+A ROOM WITH A VIEW,Romantic Drama - 1986
+BICENTENNIAL MAN,Sci-Fi Drama - 1999
+JUMANJI,Fantasy Adventure - 1995
+BEETHOVEN,Family Comedy - 1992
+FLIGHT OF THE NAVIGATOR,Sci-Fi Adventure - 1986
+THE NEVER ENDING STORY,Adventure Drama - 1984
+THE LAST STARFIGHTER,Action Adventure - 1984
+PRETTY WOMAN,Romantic Comedy - 1990
+BARB WIRE,Action Sci-Fi - 1996
+CLERKS,Comedy - 1994
+DIRTY HARRY,Crime Thriller - 1971
+CASINO,Crime Drama - 1995
+BACKDRAFT,Crime Drama - 1991
+CAPE FEAR,Thriller - 1991
+RUSH HOUR,Action Comedy - 1998
+SHANGHAI NOON,Action Comedy - 2000
+NOTTING HILL,Romantic Comedy - 1999
+SLEEPING WITH THE ENEMY,Thriller Drama - 1991
+STEEL MAGNOLIAS,Romantic Drama - 1989
+BRINGING OUT THE DEAD,Drama Thriller - 1999
+CITY OF ANGELS,Fantasy Romance - 1998
+THE ROCK,Action Adventure - 1996
+LEAVING LAS VEGAS,Romantic Drama - 1995
+RAISING ARIZONA,Crime Comedy - 1987
+THE FIFTH ELEMENT,Sci-Fi Adventure - 1997
+LETHAL WEAPON,Crime Action - 1987
+HUDSON HAWK,Action Comedy - 1991
+LOOK WHOS TALKING,Romantic Comedy - 1989
+THE BASKETBALL DIARIES,Crime Drama - 1995
+MAGNOLIA,Drama - 1999
+JERRY MAGUIRE,Romantic Drama - 1996
+A FEW GOOD MEN,Crime Mystery - 1992
+RAIN MAN,Drama - 1988
+COCKTAIL,Romantic Drama - 1988
+THE OTHERS,Horror Mystery - 2001
+DAYS OF THUNDER,Action Drama - 1990
+JACK,Comedy Drama - 1996
+OUT OF SIGHT,Crime Comedy - 1998
+ANACONDA,Adventure Thriller - 1997
+PHENOMENON,Fantasy Drama - 1996
+TRUE LIES,Action Thriller - 1994
+END OF DAYS,Action Mystery - 1999
+DR DOLITTLE,Family Comedy - 1998
+ERASER,Action Mystery - 1996
+JUNIOR,Romantic Comedy - 1994
+LAST ACTION HERO,Action Comedy - 1993
+TOTAL RECALL,Adventure Sci-Fi - 1990
+TWINS,Comedy Drama - 1988
+THE RUNNING MAN,Action Sci-Fi - 1987
+PREDATOR,Action Sci-Fi - 1987
+COMMANDO,Action Thriller - 1985
+SPACE COWBOYS,Adventure Thriller - 2000
+IN THE LINE OF FIRE,Crime Drama - 1993
+EL CID,Adventure Drama - 1961
+ROCKY,Sports Drama - 1976
+SISTER ACT,Comedy Music - 1992
+AS GOOD AS IT GETS,Romantic Comedy - 1997
+BONNIE AND CLYDE,Crime Drama - 1967
+REBEL WITHOUT A CAUSE,Romantic Drama - 1955
+AMERICAN PSYCHO,Crime Drama - 2000
+THE BONE COLLECTOR,Crime Mystery - 1999
+CASPER,Family Comedy - 1995
+SMALL SOLDIERS,Action Comedy - 1998
+HOWARD THE DUCK,Adventure Comedy - 1986
+FREE WILLY,Family Drama - 1993
+WILD THINGS,Crime Thriller - 1998
+BLACK HAWK DOWN,War Drama - 2001
+WATERWORLD,Sci-Fi Adventure - 1995
+SHALLOW GRAVE,Crime Thriller - 1994
+SPEED,Action Thriller - 1994
+CONGO,Adventure Mystery - 1995
+MOONWALKER,Crime Fantasy - 1988
+DUMBO,Musical Animation - 1941
+THE GAME,Mystery Thriller - 1997
+EDWARD SCISSORHANDS,Romance Fantasy - 1990
+MALLRATS,Romantic Comedy - 1995
+CHASING AMY,Romantic Comedy - 1997
+THE JUNGLE BOOK,Animation Adventure - 1967
+FLUBBER,Family Comedy - 1997
+SLEEPING BEAUTY,Fantasy Animation - 1959
+CINDERELLA,Fantasy Animation - 1950
+FROM HELL,Crime Horror - 2001
+WE WERE SOLDIERS,History Action - 2002
+THE MOTHMAN PROPHECIES,Horror Mystery - 2002
+A BEAUTIFUL MIND,Biography Drama - 2001
+SHALLOW HAL,Comedy Drama - 2001
+GOSFORD PARK,Mystery Drama - 2001
+ALI,Sports Drama - 2001
+IRIS,Biography Romance - 2001
+CHARLOTTE GRAY,Romance Thriller - 2001
+ICE AGE,Adventure Animation - 2002
+DONT SAY A WORD,Crime Thriller - 2001
+PANIC ROOM,Crime Thriller - 2002
+CROSSROADS,Music Drama - 1986
+RESIDENT EVIL,Action Horror - 2002
+AMELIE,French RomCom - 2001
+BEVERLY HILLS COP,Action Comedy - 1984
+BABYS DAY OUT,Adventure Comedy - 1994
+GETTING EVEN WITH DAD,Crime Comedy - 1994
+RICHIE RICH,Family Comedy - 1994
+UNCLE BUCK,Family Comedy - 1989
+MY GIRL,Romantic Drama - 1991
+THE PAGEMASTER,Adventure Comedy - 1994
+MINORITY REPORT,Sci-Fi Mystery - 2002
+SCOOBY DOO,Mystery Comedy - 2002
+SPIDERMAN,Action Fantasy - 2002
+DRAGONFLY,Mystery Drama - 2002
+UNFAITHFUL,Romance Thriller - 2002
+MONSTERS BALL,Romantic Drama - 2001
+HARDBALL,Sports Drama - 2001
+ROLLERBALL,Sci-Fi Action - 1975
+MURDER BY NUMBERS,Crime Thriller - 2002
+OFFICE SPACE,Crime Comedy - 1999
+BLUE JUICE,Romantic Comedy - 1995
+THE WISHMASTER,Fantasy Horror - 1997
+RAT RACE,Adventure Comedy - 2001
+ROCK STAR,Music Drama - 2001
+DOMESTIC DISTURBANCE,Crime Thriller - 2001
+TRAINING DAY,Crime Action - 2001
+ADDAMS FAMILY VALUES,Comedy Sequel - 1993
+CATCH ME IF YOU CAN,Crime Drama - 2002
+THE BANGER SISTERS,Comedy Drama - 2002
+REAL WOMEN HAVE CURVES,Comedy Drama - 2002
+THE DEER HUNTER,Drama War - 1978
+TWO WEEKS NOTICE,Romantic Comedy - 2002
+DAREDEVIL,Superhero Action - 2003
+THE HOURS,Drama - 2002
+TREASURE PLANET,Animation Adventure - 2002
+THE MAGDELENE SISTERS,Drama - 2002
+MOONLIGHT MILE,Romantic Drama - 2002
+THE RING,Japanese Horror - 2002
+ANALYSE THAT,Crime Comedy - 2002
+THE GOOD THIEF,Crime Thriller - 2002
+MAID IN MANHATTAN,Romantic Comedy - 2002
+THE LIFE OF DAVID GALE,Crime Drama - 2003
+AUTO FOCUS,Crime Biography - 2002
+SHANGHAI KNIGHTS,Action Comedy - 2003
+HEARTLANDS,Comedy Drama - 2002
+KANGAROO JACK,Adventure Comedy - 2003
+THE MATRIX RELOADED,Sci-Fi Action - 2003
+KILL BILL,Crime Action - 2003
+THE MATRIX,Sci-Fi Action - 1999
+DIRTY DEEDS,Comedy - 2005
+A GUY THING,Romantic Comedy - 2003
+DUMB AND DUMBERER,Comedy - 1994
+IDENTITY,Mystery Thriller - 2003
+IGBY GOES DOWN,Comedy Drama - 2002
+BASIC,Mystery Thriller - 2003
+FEARDOTCOM,Horror Crime - 2002
+BRUCE ALMIGHTY,Comedy Drama - 2003
+BIKER BOYZ,Action Crime - 2003
+WRONG TURN,Horror Thriller - 2003
+NICHOLAS NICKLEBY,Romantic Drama - 2002
+DADDY DAY CARE,Family Comedy - 2003
+THE HULK,Superhero Action - 2003
+FINDING NEMO,Animation Adventure - 2003
+ANGER MANAGEMENT,Comedy - 2003
+PACIFIC RIM,Action Sci-Fi - 2013
+LILO AND STITCH,Animation Adventure - 2002
+SPIDER MAN,Action Fantasy - 2002
+CITY OF GOD,Crime Drama - 2002
+CATCH ME IF YOU CAN,Crime Biography - 2002
+THE PIANIST,History Drama - 2002
+MINORITY REPORT,Action Mystery - 2002
+ICE AGE,Animation Adventure - 2002
+GANGS OF NEW YORK,Crime Drama - 2002
+TWENTY EIGHT DAYS LATER,Horror Thriller - 2002
+SIGNS,Sci-Fi Thriller - 2002
+THE RING,Japanese Horror - 2002
+INSOMNIA,Crime Mystery - 2002
+ROAD TO PERDITION,Crime Drama - 2002
+PANIC ROOM,Crime Thriller - 2002
+CHICAGO,Musical Comedy - 2002
+EIGHT MILE,Gritty Drama - 2002
+HERO,Action History - 2002
+TWENTY FIFTH HOUR,Crime Drama - 2002
+ADAPTATION,Crime Comedy - 2002
+ABOUT A BOY,Romantic Comedy - 2002
+KILL BILL,Crime Action - 2003
+SCARY MOVIE THREE,Comedy Horror - 2003
+BIG FISH,Fantasy Drama - 2003
+MYSTIC RIVER,Crime Drama - 2003
+DOGVILLE,Drama - 2003
+FINDING NEMO,Animated Adventure - 2003
+OLDBOY,Mystery Thriller - 2003
+COLD MOUNTAIN,War Romance - 2003
+BRUCE ALMIGHTY,Comedy Fantasy - 2003
+SEABISCUIT,Sports Drama - 2003
+GOODBYE LENIN,Romantic Comedy - 2003
+LOVE ACTUALLY,Romantic Comedy - 2003
+BAD SANTA,Crime Comedy - 2003
+THE LAST SAMURAI,Action History - 2003
+SOMETHINGS GOTTA GIVE,Romantic Comedy - 2003
+HOUSE OF SAND AND FOG,Drama - 2003
+X MEN TWO,Sci-Fi Action - 2003
+THE ITALIAN JOB,Crime Action - 2003
+MATCHSTICK MEN,Crime Comedy - 2003
+RUNAWAY JURY,Thriller Drama - 2003
+ALIEN VS PREDATOR,Action Sci-Fi - 2004
+ANCHORMAN,Comedy - 2004
+THE NOTEBOOK,Romantic Drama - 2004
+SAW,Horror Mystery - 2004
+THE INCREDIBLES,Animated Action - 2004
+TROY,Adventure Drama - 2004
+SHAUN OF THE DEAD,Horror Comedy - 2004
+DODGEBALL,Sports Comedy - 2004
+MAN ON FIRE,Action Drama - 2004
+DAWN OF THE DEAD,Sci-Fi Horror - 2004
+HELLBOY,Fantasy ACTION - 2004
+VAN HELSING,Action Fantasy - 2004
+THE CHRONICLES OF RIDDICK,Action Sci-Fi - 2004
+THE BUTTERFLY EFFECT,Sci-Fi Thriller - 2004
+SPIDERMAN TWO,Action Fantasy - 2004
+THE GRUDGE,Japanese Horror - 2004
+THE BOURNE SUPREMACY,Crime Thriller - 2004
+THE DAY AFTER TOMORROW,Action Sci-Fi - 2004
+I ROBOT,Action Sci-Fi - 2004
+THE PUNISHER,Crime Action - 2004
+BATMAN BEGINS,Superhero Action - 2005
+SIN CITY,Crime Thriller - 2005
+NANNY MCPHEE,Family Fantasy - 2005
+ROBOTS,Animated Comedy - 2005
+KING KONG,Action Adventure - 2005
+THE FORTY YEAR OLD VIRGIN,Romantic Comedy - 2005
+CHICKEN LITTLE,Family Comedy - 2005
+WEDDING CRASHERS,Romantic Comedy - 2005
+BROKEBACK MOUNTAIN,Romantic Drama - 2005
+SERENITY,Sci-Fi Action - 2005
+MADAGASCAR,Animated Comedy - 2005
+PRIDE AND PREJUDICE,Romantic Drama - 2005
+CORPSE BRIDE,Musical Animation - 2005
+SON OF THE MASK,Family Comedy - 2005
+LAND OF THE DEAD,Horror Sci-Fi - 2005
+MUNICH,History Drama - 2005
+KISS KISS BANG BANG,Comedy Crime - 2005
+CINDERELLA MAN,History Drama - 2005
+JARHEAD,War Drama - 2005
+THE BROTHERS GRIMM,Adventure Comedy - 2005
+NO COUNTRY FOR OLD MEN,Crime Drama - 2007
+TRANSFORMERS,Action Sci-Fi - 2007
+THE BOURNE ULTIMATUM,Action Sci-Fi - 2007
+RATATOUILLE,Family Animation - 2007
+JUNO,Romantic Comedy - 2007
+SUPERBAD,Comedy - 2007
+INTO THE WILD,Biography Adventure - 2007
+THERE WILL BE BLOOD,Drama - 2007
+HOT FUZZ,Action Comedy - 2007
+AMERICAN GANGSTER,Crime Drama - 2007
+KNOCKED UP,Romantic Comedy - 2007
+SWEENEY TODD,Musical Horror - 2007
+THE SIMPSONS MOVIE,Animation Comedy - 2007
+ZODIAC,Crime Mystery - 2007
+ATONEMENT,Mystery Romance - 2007
+SHOOTER,Crime Action - 2007
+STARDUST,Fantasy Adventure - 2007
+THE MIST,Horror Thriller - 2007
+DEATH PROOF,Action Thriller - 2007
+PARANORMAL ACTIVITY,Horror Mystery - 2007
+THE DARK KNIGHT,Superhero Action - 2008
+IRON MAN,Sci-Fi Action - 2008
+WALL E,Animation Adventure - 2008
+SLUMDOG MILLIONAIRE,Romantic Drama - 2008
+GRAN TORINO,Drama - 2008
+TAKEN,Crime Action - 2008
+TWILIGHT,Fantasy Romance - 2008
+IN BRUGES,Crime Comedy - 2008
+QUANTUM OF SOLACE,Action Thriller - 2008
+WANTED,Action Thriller - 2008
+TROPIC THUNDER, Action Comedy - 2008
+THE HURT LOCKER,War Drama - 2008
+KUNG FU PANDA,Animated Action - 2008
+BURN AFTER READING,Crime Comedy - 2008
+PINEAPPLE EXPRESS,Crime Comedy - 2008
+HELLBOY TWO THE GOLDEN ARMY,Action Fantasy - 2008
+BOLT,Family Animation - 2008
+STEP BROTHERS,Comedy - 2008
+LET THE RIGHT ONE IN,Horror Drama - 2008
+BE KIND REWIND,Comedy Drama - 2008
+AVATAR,Adventure Fantasy - 2009
+INGLOURIOUS BASTERDS,War Drama - 2009
+HANGOVER,Comedy - 2009
+DISTRICT NINE,Sci-Fi Thriller - 2009
+UP,Animated Adventure - 2009
+STAR TREK,Sci-Fi Adventure - 2009
+ZOMBIELAND,Horror Comedy - 2009
+LEE DANIELS THE BUTLER,Biography Drama - 2013
+TERMINATOR SALVATION,Sci-Fi Action - 2007
+UP IN THE AIR,Romantic Drama - 2009
+THE BLIND SIDE,Sports Drama - 2009
+I LOVE YOU MAN,Comedy - 2009
+THE ROAD,Adventure Drama - 2009
+DRAG ME TO HELL,Horror Thriller - 2009
+CORALINE,Animation Fantasy - 2009
+ADVENTURELAND,Romantic Comedy - 2009
+FANTASTIC MR FOX,Animation Adventure - 2009
+DAYBREAKERS,Action Horror - 2009
+WHERE THE WILD THINGS ARE,Adventure Drama - 2009
+INVICTUS,History Drama - 2009
+INCEPTION,Action Mystery - 2010
+TOY STORY THREE,Animated Adventure - 2010
+KICK ASS,Action Comedy - 2010
+IRON MAN TWO,Sci-Fi Action - 2010
+UNSTOPPABLE,Action Thriller - 2010
+THE A TEAM,Action Thriller - 2010
+THE EXPENDABLES,Action Thriller - 2010
+KNIGHT AND DAY,Action Comedy - 2010
+MEGAMIND,Animation Comedy - 2010
+THE SOCIAL NETWORK,Biography Drama - 2010
+HEREAFTER,Fantasy Drama - 2010
+RED,Crime Action - 2010
+TANGLED,Animated Comedy - 2010
+THE SORCERERS APPRENTICE,Action Adventure - 2010
+CLASH OF THE TITANS,Action Fantasy - 2010
+THE BOOK OF ELI,Action Drama - 2010
+SALT,Crime Mystery - 2010
+MORNING GLORY,Romantic Comedy - 2010
+PRINCE OF PERSIA,Action Fantasy - 2010
+DESPICABLE ME,Animated Comedy - 2010
+RIO,Animation Adventure - 2011
+MONEYBALL,Sports Drama - 2011
+WAR HORSE,War Drama - 2011
+WARRIOR,Sports Drama - 2011
+J EDGAR,Crime Drama - 2011
+THE RAID,Action Thriller - 2011
+HUGO,Adventure Drama - 2011
+SUCKER PUNCH,Fantasy Thriller - 2011
+REAL STEEL,Sci-Fi Action - 2011
+FAST AND FURIOUS FIVE,Action Thriller - 2011
+GREEN LANTERN,Superhero Action - 2011
+X MEN FIRST CLASS,Sci-Fi Action - 2011
+THOR,Superhero Action - 2011
+BAD TEACHER,Comedy - 2011
+INBETWEENERS MOVIE,Comedy - 2011
+IN TIME,Sci-Fi Action - 2011
+SUPER EIGHT,Sci-Fi Mystery - 2011
+COWBOYS AND ALIENS,Action Sci-Fi - 2011
+THE MUPPETS,Family Comedy - 2011
+MIDNIGHT IN PARIS,Romantic Comedy - 2011
+THE DARK KNIGHT RISES,Superhero Action - 2012
+SKYFALL,Action Thriller - 2012
+THE AVENGERS,Superhero Action - 2012
+LES MISERABLES,Musical Drama - 2012
+DJANGO UNCHAINED,Western Drama - 2012
+THE RAID REDEMPTION,Action Thriller - 2012
+ZERO DARK THIRTY,History Drama - 2012
+LIFE OF PI,Fantasy Adventure - 2012
+PROMETHEUS,Sci-Fi Mystery - 2012
+END OF WATCH,Crime Drama - 2012
+LOOPER,Crime Sci-Fi - 2012
+TED,Comedy Fantasy - 2012
+ARGO,History Drama - 2012
+THE HUNGER GAMES,Action Adventure - 2012
+JACK REACHER,Crime Action - 2012
+GET THE GRINGO,Crime Drama - 2012
+BRAVE,Animated Adventure - 2012
+THE AMAZING SPIDERMAN,Superhero Action - 2012
+SILVER LININGS PLAYBOOK,Romantic Comedy - 2012
+FLIGHT,Drama Thriller - 2012
+GRAVITY,Sci-Fi Drama - 2013
+OBLIVION,Adventure Mystery - 2013
+MAN OF STEEL,Superhero Action - 2013
+THE CONJURING,Horror Thriller - 2013
+THE WOLVERINE,Superhero Action - 2013
+RUSH,Biography Drama - 2013
+CAPTAIN PHILLIPS,Action Adventure - 2013
+OZ THE GREAT AND POWERFUL,Adventure Fantasy - 2013
+STAR TREK INTO DARKNESS,Sci-Fi Adventure - 2013
+MONSTERS UNIVERSITY,Animated Comedy - 2013
+IRON MAN THREE,Sci-Fi Action - 2013
+FAST AND FURIOUS SIX,Crime Action - 2013
+RIDDICK,Sci-Fi Thriller - 2013
+THE FAMILY,Crime Comedy - 2013
+JACK THE GIANT SLAYER,Adventure Fantasy - 2013
+TWO GUNS,Action Comedy - 2013
+THE AMAZING SPIDERMAN TWO,Superhero Action - 2014
+XMEN DAYS OF FUTURE PAST,Superhero Action - 2014
+GODZILLA,Sci-Fi Action - 2014
+POMPEII,Action Adventure - 2014
+ROBOCOP,Crime Sci-Fi - 2014
+THE LEGO MOVIE,Animation Comedy - 2014
+RIO TWO,Animation Adventure - 2014
+I FRANKENSTEIN,Sci-Fi Fantasy - 2014
+FRANK,Comedy Drama - 2014
+MUPPETS MOST WANTED,Animated Comedy - 2014
+THE RAID TWO,Crime Action - 2014
+HERCULES,Action Adventure - 2014
+THE OTHER WOMAN,Comedy Romance - 2014
+DIVERGENT,Adventure Sci-Fi - 2014
+NOAH,Action Adventure - 2014
+TRANSCENDENCE,Sci-Fi Drama - 2014
+NEED FOR SPEED,Action Drama - 2014
+GUARDIANS OF THE GALAXY,Adventure Sci-Fi - 2014
+THE MONUMENTS MEN,War Drama - 2014
+FURY,War Action - 2014
+THE DEPARTED,Crime Thriller - 2006
+X MEN THE LAST STAND,Sci-Fi Action - 2006
+THE GRANDMASTER,Action Drama - 2013
+THE PRESTIGE,Mystery Drama - 2006
+MONSTER HOUSE,Animation Comedy - 2006
+THE OMEN,Horror Mystery - 2006
+PANS LABYRINTH,Fantasy Drama - 2006
+CHILDREN OF MEN,Sci-Fi Adventure - 2006
+SILENT HILL,Horror Mystery - 2006
+MARIE ANTOINETTE,History Drama - 2006
+SUPERMAN RETURNS,Superhero Action - 2006
+THE LIVES OF OTHERS,Drama Thriller - 2006
+THE HILLS HAVE EYES,Horror Thriller - 2006
+THE DEVIL WEARS PRADA,Romantic Comedy - 2006
+LITTLE MISS SUNSHINE,Adventure Comedy - 2006
+CARS,Animation Comedy - 2006
+THE ILLUSIONIST,Romance Mystery - 2006
+THE PURSUIT OF HAPPYNESS,Biography Drama - 2006
+CASINO ROYALE,Action Thriller - 2006
+ERAGON,Fantasy Adventure - 2006
+STAR WARS THE FORCE AWAKENS,Sci-Fi Action - 2015
+JURASSIC WORLD,Action Adventure - 2015
+AVENGERS AGE OF ULTRON,Action Adventure - 2015
+INSIDE OUT,Animation - 2015
+FURIOUS SEVEN,Action - 2015
+MINIONS,Animation - 2015
+THE HUNGER GAMES MOCKINGJAY PART TWO,Action Adventure - 2015
+THE MARTIAN,Sci-Fi - 2015
+CINDERELLA,Fantasy - 2015
+SPECTRE,Action - 2015
+MISSION IMPOSSIBLE ROGUE NATION,Action - 2015
+PITCH PERFECT TWO,Comedy - 2015
+THE REVENANT,Action Adventure - 2015
+ANT MAN,Action Adventure - 2015
+HOME,Animation - 2015
+HOTEL TRANSYLVANIA TWO,Animation - 2015
+FIFTY SHADES OF GREY,Romance - 2015
+THE SPONGEBOB MOVIE SPONGE OUT OF WATER,Animation - 2015
+STRAIGHT OUTTA COMPTON,Drama - 2015
+SAN ANDREAS,Action - 2015
+MAD MAX FURY ROAD,Sci-Fi Action - 2015
+DADDYS HOME,Sci-Fi Action - 2015
+INSURGENT,Action Adventure - 2015
+THE PEANUTS MOVIE,Animation - 2015
+KINGSMAN THE SECRET SERVICE,Action Adventure - 2015
+THE GOOD DINOSAUR,Animation - 2015
+SPY,Comedy - 2015
+TRAINWRECK,Comedy - 2015
+CREED,Drama - 2015
+TOMORROWLAND,Sci-Fi - 2015
+FINDING DORY,Animation - 2016
+CAPTAIN AMERICA CIVIL WAR,Action Adventure - 2016
+A SECRET LIFE OF PETS,Animation - 2016
+THE JUNGLE BOOK,Adventure - 2016
+DEADPOOL,Action - 2016
+ZOOTOPIA,Animation - 2016
+BATMAN VS SUPERMAN DAWN OF JUSTICE,Action Adventure - 2016
+SUICIDE SQUAD,Action Adventure - 2016
+DOCTOR STRANGE,Action Adventure - 2016
+FANTASTIC BEASTS AND WHERE TO FIND THEM,Fantasy - 2016
+JASON BOURNE,Action - 2016
+STAR TREK BEYOND,Sci-Fi Adventure - 2016
+XMEN APOCALYPSE,Action Adventure - 2016
+KUNG FU PANDA THREE,Animation - 2016
+TROLLS,Animation - 2016
+GHOSTBUSTERS,Horror Comedy - 2016
+CENTRAL INTELLIGENCE,Comedy - 2016
+THE LEGEND OF TARZAN,Action Adventure - 2016
+SULLY,Drama - 2016
+MOANA,Animation - 2016
+BAD MOMS,Comedy - 2016
+THE ANGRY BIRDS MOVIE,Animation - 2016
+INDEPENDENCE DAY RESURGENCE,Sci-fi Adventure - 2016
+THE CONJURING TWO,Horror - 2016
+SAUSAGE PARTY,Adult Animation - 2016
+THE MAGNIFICENT SEVEN,Western - 2016
+RIDE ALONG TWO,Action comedy - 2016
+DONT BREATHE,Horror Thriller - 2016
+MISS PEREGRINES HOME FOR PECULIAR CHILDREN,Fantasy - 2016
+THE ACCOUNTANT,Drama - 2016
+GRAVE OF THE FIREFLIES,War Animation - 1988
+SHAOLIN SOCCER,Sports Comedy - 2001
+THE MAN FROM EARTH,Drama Sci-Fi - 2007
+GARDEN STATE,Comedy Drama - 2004
+WAKING LIFE,Animation Drama - 2001
+CLOSER,Romantic Drama - 2004
+THRONE OF BLOOD,Action Drama - 1957
+ONCE,Music Drama - 2006
+PUNCH DRUNK LOVE,Comedy Romance - 2002
+THE FOUNTAIN,Romantic Drama - 2006
+MYSTERY MEN,Action Comedy - 1999
+RUBBER,Comedy Horror - 2010
+LADY VENGEANCE,Crime Thriller - 2005
+TWELVE ANGRY MEN,Drama - 1957
+ENTER THE VOID,Drama Fantasy - 2009
+CASHBACK,Comedy Drama - 2006
+THE BIG LEBOWSKI,Crime Comedy - 1998
+HUMAN TRAFFIC,Music Comedy - 1999
+THE MATADOR,Crime Comedy - 2005
+TUCKER AND DALE VS EVIL,Comedy Horror - 2010
+NEW KIDS TURBO,Action Comedy - 2010
+BIG TROUBLE,Crime Comedy - 2002
+THE TERMINAL,Comedy Drama - 2004
+DOWNFALL,History Drama - 2004
+THE FALL,Fantasy Adventure - 2006
+DRIVE,Crime Drama - 2011
+KIDULTHOOD,Drama - 2006
+BRICK,Mystery Drama - 2005
+HARD CANDY,Drama Thriller - 2005
+MAN ON THE MOON,Biography Comedy - 1999
+CITY ISLAND,Comedy Drama - 2009
+ROMEO AND JULIET,Romantic Drama - 1996
+MR NOBODY,Romantic Drama - 2009
+A SCANNER DARKLY,Sci-Fi Animation - 2006
+THEY LIVE,Action Horror - 1988
+THE ACT OF KILLING,Documentary History - 2012
+A SINGLE MAN,Drama - 2009
+THE EDUKATORS,Action Comedy - 2004
+HER,Romance Sci-Fi - 2013
+THE WAVE,Drama Thriller - 2008
+GATTACA,Drama Sci-Fi - 1997
+BEFORE MIDNIGHT,Romantic Drama - 2013
+NOTHING PERSONAL,Drama - 2009
+EAGLE VS SHARK,Romantic Comedy - 2007
+THE VICIOUS KIND,Comedy Drama - 2009
+DOGTOOTH,Drama - 2009
+TINY FURNITURE,Comedy Drama - 2010
+MAN BITES DOG,Crime Comedy - 1992
+BLOOD IN BLOOD OUT,Crime Action - 1993
+STAR WARS THE LAST JEDI,Sci-Fi - 2017
+FIFTY SHADES DARKER,Drama - 2017
+GIRLS TRIP,Comedy - 2017
+WONDER,Drama- 2017
+TRANSFORMERS THE LAST KNIGHT,Action - 2017
+SPLIT,Psychological - 2017
+WAR FOR THE PLANET OF THE APES,Sci-Fi - 2017
+CARS THREE,Animation - 2017
+COCO,Animation- 2017
+KONG SKULL ISLAND,Adventure - 2017
+PIRATES OF THE CARIBBEAN DEAD MEN TELL NO TALES,Fantasy - 2017
+THE BOSS BABY,Animation - 2017
+GET OUT,Horror - 2017
+THE LEGO BATMAN MOVIE,Animation - 2017
+DUNKIRK,War - 2017
+JUSTICE LEAGUE,Action - 2017
+THE FATE OF THE FURIOUS,Action - 2017
+LOGAN,Action Adventure - 2017
+DESPICABLE ME THREE,Animation - 2017
+THOR RAGNAROK,Adventure - 2017
+IT,Horror - 2017
+SPIDER MAN HOMECOMING,Adventure - 2017
+GUARDIANS OF THE GALAXY VOLUME TWO,Sci-Fi - 2017
+WONDER WOMAN,Adventure - 2017
+BEAUTY AND THE BEAST,Live Action Fantasy - 2017
+THE GREATEST SHOWMAN,Musical - 2017
+THREE BILBOARDS OUTSIDE EBBING MISSOURI,Drama - 2017
+BLADE RUNNER TWENTY FORTY NINE,Sci-Fi - 2017
+BABY DRIVER,Action - 2017
+ALIEN COVENANT,Sci-Fi - 2017
