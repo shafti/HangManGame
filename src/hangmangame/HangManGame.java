@@ -1,14 +1,11 @@
 package hangmangame;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
- * This class allows you to play a game of hangman
+ * This class allows you to play a game of hangman using movies.  The movies.txt
+ * file is used to upload information into the loader class.  The txt file is in
+ * the same folder as this class.
  * 
  * @author Claude Lalanne
  * @author claude.r.lalanne@gmail.com
@@ -18,15 +15,23 @@ public class HangManGame {
     public static void main(String[] args) {
         //filename to load movies and hints
         Loader load = new Loader("movies.txt");
-        GameInitializer game = new GameInitializer(load.getMovieTitleAndHints());
-        Scanner input = new Scanner(System.in);        
-                
-        char play = 'Y';
+        Scanner input = new Scanner(System.in);
+        GameEngine game = new GameEngine(load.getMovieTitleAndHints());
+        game.welcomeMessage();
         
-        while(play =='Y'){
+        String play = "Y";        
+        while(play.equals("Y")){
             game.playGame();
-            System.out.print("would you like to play again?: ");            
-            play = input.nextLine().toUpperCase().charAt(0);
+            while(true){
+                System.out.print("Would you like to play again? Enter Y or N ");            
+                play = input.nextLine().toUpperCase();
+                if(play.equals("Y")|| play.equals("N")) {
+                    game.reset();
+                    break;
+                }else{
+                    System.out.println("The value entered is incorrect");
+                }
+            }            
             System.out.println();
         }
     }    

@@ -8,14 +8,13 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * This class loads the information from a file and creates an arraylist
+ * This class loads the information from a file and creates an ArrayList
  * of the lines in the file
  * 
  * @author Claude Lalanne
  * @author claude.r.lalanne@gmail.com
  */
 public class Loader {
-
     private File file;
     private ArrayList<String> movieTitleAndHints;
     
@@ -32,7 +31,8 @@ public class Loader {
                 movieTitleAndHints.add(sc.nextLine());
             }            
         } catch (FileNotFoundException ex) {
-            Logger.getLogger(HangManGame.class.getName()).log(Level.SEVERE, null, ex);
+            Logger.getLogger(HangManGame.class.getName()).log(Level.SEVERE, loadFile + " Not Found");
+            System.exit(0);
         }
     }
 
